@@ -1,0 +1,51 @@
+name: mmm
+description: "Aicontentapp - Scalable 1M Users Architecture"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State Management (Riverpod)
+  flutter_riverpod: ^2.5.1
+
+  # Routing
+  go_router: ^14.2.0
+
+  # Network & API
+  dio: ^5.4.3+1
+
+  # Typography & Design
+  google_fonts: ^6.2.1
+
+  # Vector Icons
+  flutter_svg: ^2.0.10+1
+
+  # Image Caching (Must for 1M users)
+  cached_network_image: ^3.3.1
+
+  # Local Storage (Auth tokens & preferences)
+  shared_preferences: ^2.2.3
+
+  # Splash & Onboarding Animations
+  lottie: ^3.1.2
+
+  # Haptics
+  haptic_feedback: ^0.5.1
+  flutter_animate: ^4.5.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  # assets:
+  #   - assets/images/
+  #   - assets/icons/
