@@ -1,7 +1,7 @@
 # 🎬 DrapeAI — The Next-Gen AI Product Studio & Video Virality Engine
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1558981403-c5f9899a28bc?w=1200&q=80" alt="DrapeAI Banner" width="100%" style="border-radius: 20px;" />
+  <img src="assets/images/banner.png" alt="DrapeAI Banner" width="100%" style="border-radius: 20px;" />
 </p>
 
 <p align="center">
@@ -81,6 +81,10 @@ graph TD
 ---
 
 ## 📱 Mobile Experience & UX
+
+<p align="center">
+  <img src="assets/screenshots/subscription_preview.png" alt="DrapeAI Mobile UI Preview" width="280" style="border-radius: 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+</p>
 
 - **Aesthetic:** Deep stealth dark mode (`#121212` background, `#1E1E1E` surface) with electric indigo accents (`#5E5CE6`) and golden credit highlights (`#FFD700`).
 - **Glassmorphism:** Live dynamic blur overlays (`BackdropFilter` with `ImageFilter.blur`) for navigation bars and modal bottom sheets.
