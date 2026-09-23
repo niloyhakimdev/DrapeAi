@@ -80,11 +80,19 @@ graph TD
 
 ---
 
-## 📱 Mobile Experience & UX
+## 📱 Mobile Experience & Showcase
 
 <p align="center">
-  <img src="assets/screenshots/subscription_preview.png" alt="DrapeAI Mobile UI Preview" width="280" style="border-radius: 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+  <img src="assets/screenshots/splash-screen-preview.jpg" width="19%" style="border-radius: 14px; margin: 2px;" alt="Splash Screen" />
+  <img src="assets/screenshots/home-screen-preview.jpg" width="19%" style="border-radius: 14px; margin: 2px;" alt="Home Screen" />
+  <img src="assets/screenshots/studio-screen-preview.jpg" width="19%" style="border-radius: 14px; margin: 2px;" alt="Studio Screen" />
+  <img src="assets/screenshots/aitools-screen-preview.jpg" width="19%" style="border-radius: 14px; margin: 2px;" alt="AI Tools Screen" />
+  <img src="assets/screenshots/my-library-screen-preview.jpg" width="19%" style="border-radius: 14px; margin: 2px;" alt="Library Screen" />
 </p>
+
+| Splash Launch | Creator Home | Video Studio | AI Tools Directory | Personal Library |
+| :---: | :---: | :---: | :---: | :---: |
+| Ambient 3.2s Branding | 1-Click Remix Feed | Voice & Mannequin Swap | Modular E-Com Utilities | Creations & Storage |
 
 - **Aesthetic:** Deep stealth dark mode (`#121212` background, `#1E1E1E` surface) with electric indigo accents (`#5E5CE6`) and golden credit highlights (`#FFD700`).
 - **Glassmorphism:** Live dynamic blur overlays (`BackdropFilter` with `ImageFilter.blur`) for navigation bars and modal bottom sheets.
